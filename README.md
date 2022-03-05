@@ -5,7 +5,7 @@
 - 🧑‍💻 I’m front-end developer
 - 🖥️  I’m currently learning back-end with Typescript
 - 🤔 I’m looking for my first job in IT
-- 💬 Ask me about ...
+- 💬 About me ... https://leo2903lan.github.io/leandro-nogueira.github.io/
 - 📫 How to reach me: leandro2903.lan@gmail.com
 
 <div>
