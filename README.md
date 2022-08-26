@@ -5,7 +5,7 @@
 - 🧑‍💻 I’m front-end and back-end developer
 - 🖥️  I’m currently learning Python and Data
 - 🤔 I’m looking for my first job in IT
-- 💬 About me ... https://leo2903lan.github.io/leandro-nogueira.github.io/
+- 💬 About me ... https://leo2903lan.github.io/
 - 📫 How to reach me: leandro2903.lan@gmail.com
 
 <div>
